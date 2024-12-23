@@ -1,5 +1,4 @@
 # Evaluacion
-Repositorio que contiene la evaluacion
 
 Repositorio de Proyectos
 
